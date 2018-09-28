@@ -87,7 +87,7 @@ class SearchPage extends React.Component {
                 )))}
               </ul>
             : ((searchedBooks.length === 0)
-              ? (<div className="search-icon animated rubberBand" />)
+              ? (<div className="search-icon animated flash" />)
               : (<div className="not-found" />))
           }
         </div>
