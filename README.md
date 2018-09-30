@@ -41,8 +41,6 @@ Finally, type `npm start` which will automatically open the application on your 
 
 ## OVERVIEW
 
-[**LIVE LINK**][1]
-
 The user interface for **MyReads** is implemented with the help of [React][2] library.
 
 > This project is part of Udacity's [**Front-End Web Developer Nanodegree Program**][3]
@@ -51,7 +49,6 @@ The user interface for **MyReads** is implemented with the help of [React][2] li
 
 The MIT License 2018 - [Priyabrata Biswas][4].
 
-[1]: https://myreads-lite.netlify.com/
 [2]: https://reactjs.org/
 [3]: https://in.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [4]: http://github.com/pbiswas101
