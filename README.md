@@ -2,7 +2,7 @@
 
 **MyReads** is an online book tracking web application that allows you to select and categorize books you have read, are currently reading, or want to read.
 
-![](https://github.com/pbiswas101/MyReads/blob/master/public/favicon.png)
+![](https://github.com/pbiswas101/MyReads/blob/master/assets/favicon.png)
 
 > “It is what you read when you don't have to that determines what you will be when you can't help it.” ― Oscar Wilde
 
