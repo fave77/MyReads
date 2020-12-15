@@ -33,11 +33,11 @@ Finally, type `npm start` which will automatically open the application on your 
 
 ### Main Page
 
-![](https://github.com/pbiswas101/MyReads/blob/master/assets/main-page.png)
+![](https://github.com/fave77/MyReads/blob/master/assets/main-page.png)
 
 ### Search Page
 
-![](https://github.com/pbiswas101/MyReads/blob/master/assets/search-page.png)
+![](https://github.com/fave77/MyReads/blob/master/assets/search-page.png)
 
 ## OVERVIEW
 
@@ -54,4 +54,4 @@ The MIT License 2018 - [Priyabrata Biswas][4].
 [1]: https://myreads-lite.netlify.com/
 [2]: https://reactjs.org/
 [3]: https://in.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[4]: http://github.com/pbiswas101
+[4]: http://github.com/fave77
